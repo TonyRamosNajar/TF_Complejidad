@@ -1,0 +1,1416 @@
+Distrito;Partida;Llegada;Precio
+Ancon;CBF;Carabayllo;16.5
+Ancon;CBF;Chorrillos;91.92
+Ancon;CBF;El Agustino;70.43
+Ancon;CBF;La Victoria;69.65
+Ancon;CBF;La Victoria;68.8
+Ancon;CBF;Puente Piedra;31.9
+Ancon;CBF;Santa Anita;93.23
+Ancon;CBF;Santiago de Surco;102.65
+Ancon;DIDI;Ancon;9
+Ancon;DIDI;Ancon;10.26
+Ancon;DIDI;Barranco;83.23
+Ancon;DIDI;Comas;52.32
+Ancon;DIDI;Lurin;120.43
+Ancon;DIDI;Lurin;123.23
+Ancon;DIDI;Punta Negra;29
+Ancon;DIDI;Santiago de Surco;100.54
+Ancon;ETX;Comas;55.43
+Ancon;ETX;El Agustino;71.27
+Ancon;ETX;Jesus Maria;77.32
+Ancon;ETX;Lima;54.3
+Ancon;ETX;Lima;68.88
+Ancon;ETX;Lima;72.54
+Ancon;ETX;Lima;73.43
+Ancon;ETX;Lince;76.43
+Ancon;ETX;Lurin;124.34
+Ancon;ETX;Pueblo Libre;69.9
+Ancon;ETX;San Borja;96.9
+Ancon;ETX;Santa Anita;95.43
+Ancon;ETX;Santa Anita;91.32
+Ancon;ETX;Santiago de Surco;105.65
+Ancon;ETX;Villa el Salvador;116.87
+Ancon;ETX;Villa Maria del Triunfo;119.76
+Ancon;ETX;Villa Maria del Triunfo;120.43
+Ancon;INDR;Ancon;25.3
+Ancon;INDR;Carabayllo;49.54
+Ancon;INDR;Jesus Maria;78.89
+Ancon;INDR;Lima;54.8
+Ancon;INDR;Lima;71.56
+Ancon;INDR;Lince;75.67
+Ancon;INDR;Miraflores;81.43
+Ancon;INDR;Pueblo Libre;71.32
+Ancon;TXB;Barranco;85.43
+Ancon;TXB;El Agustino;67.43
+Ancon;TXB;El Agustino;65.32
+Ancon;TXB;Lince;76.9
+Ancon;TXB;Lurin;125.32
+Ancon;TXB;Puente Piedra;31.43
+Ancon;TXB;Punta Negra;13.5
+Ancon;TXB;Rimac;68.9
+Ancon;TXB;San Borja;96.31
+Ancon;TXB;Santa Anita;89.9
+Ancon;UBER;Barranco;86.71
+Ancon;UBER;Comas;51.64
+Ancon;UBER;Comas;53.12
+Ancon;UBER;Jesus Maria;75.7
+Ancon;UBER;Pueblo Libre;70.12
+Ancon;UBER;Punta Negra;149.32
+Ancon;UBER;Santiago de Surco;106.65
+Ancon;UBER;Villa el Salvador;113.65
+Barranco;CBF;Ancon;48.9
+Barranco;CBF;Lince;12.32
+Barranco;CBF;Lince;15.45
+Barranco;CBF;Los Olivos;33.59
+Barranco;CBF;Pueblo Libre;17.55
+Barranco;CBF;Pueblo Libre;18.9
+Barranco;CBF;Rimac;22.32
+Barranco;CBF;San Miguel;18.54
+Barranco;CBF;Santa Anita;27.87
+Barranco;CBF;Santa Anita;29.43
+Barranco;CBF;Santa Anita;28.12
+Barranco;CBF;Santiago de Surco;12.43
+Barranco;CBF;Villa el Salvador;21.31
+Barranco;CBF;Villa el Salvador;21.32
+Barranco;DIDI;Ancon;48.8
+Barranco;DIDI;Ancon;50.32
+Barranco;DIDI;Carabayllo;43.14
+Barranco;DIDI;La Victoria;14.65
+Barranco;DIDI;Lince;14.8
+Barranco;DIDI;Lurin;30.43
+Barranco;DIDI;Lurin;31.34
+Barranco;DIDI;Pueblo Libre;17.33
+Barranco;DIDI;Puente Piedra;45.54
+Barranco;DIDI;San Marin de Porres;37.21
+Barranco;DIDI;Santa Anita;28.65
+Barranco;DIDI;Santiago de Surco;12.76
+Barranco;DIDI;Villa el Salvador;20.8
+Barranco;ETX;Chorrillos;13.54
+Barranco;ETX;Jesus Maria;17.98
+Barranco;ETX;La Victoria;13.65
+Barranco;ETX;La Victoria;13.8
+Barranco;ETX;Lurin;29.43
+Barranco;ETX;Pueblo Libre;18.87
+Barranco;ETX;San Marin de Porres;36.87
+Barranco;ETX;San Marin de Porres;37.65
+Barranco;ETX;SJL;31.43
+Barranco;ETX;SJL;32.43
+Barranco;INDR;Ancon;50.12
+Barranco;INDR;Barranco;6.78
+Barranco;INDR;Barranco;8.65
+Barranco;INDR;Comas;39.8
+Barranco;INDR;El Agustino;29.7
+Barranco;INDR;Jesus Maria;18.43
+Barranco;INDR;Jesus Maria;18.87
+Barranco;INDR;Los Olivos;35.65
+Barranco;INDR;Puente Piedra;45.21
+Barranco;INDR;Punta Negra;54.54
+Barranco;INDR;SJL;33.65
+Barranco;INDR;Villa el Salvador;20.32
+Barranco;INDR;Villa Maria del Triunfo;22.54
+Barranco;INDR;Villa Maria del Triunfo;23.43
+Barranco;TXB;Ancon;49.76
+Barranco;TXB;Jesus Maria;17.45
+Barranco;TXB;San Marin de Porres;36.65
+Barranco;UBER;Barranco;5.76
+Barranco;UBER;Comas;39.76
+Barranco;UBER;Lince;13.23
+Barranco;UBER;Lince;14.54
+Barranco;UBER;Pueblo Libre;17.54
+Barranco;UBER;Puente Piedra;44.87
+Barranco;UBER;Santa Anita;28.55
+Barranco;UBER;Santiago de Surco;12.65
+Barranco;UBER;SJL;31.76
+Barranco;UBER;SJL;31.99
+Chorrillos;CBF;Ancon;75.99
+Chorrillos;CBF;Barranco;13.43
+Chorrillos;CBF;El Agustino;32.66
+Chorrillos;CBF;Jesus Maria;21.5
+Chorrillos;CBF;La Victoria;18.9
+Chorrillos;CBF;Los Olivos;47.98
+Chorrillos;CBF;Lurin;58.4
+Chorrillos;CBF;Miraflores;58
+Chorrillos;CBF;Pueblo Libre;21.55
+Chorrillos;CBF;Pueblo Libre;21.76
+Chorrillos;CBF;Punta Negra;43.69
+Chorrillos;CBF;Rimac;28.9
+Chorrillos;CBF;San Borja;21.44
+Chorrillos;CBF;Santiago de Surco;13.79
+Chorrillos;CBF;Villa el Salvador;17.67
+Chorrillos;CBF;Villa el Salvador;17.99
+Chorrillos;DIDI;Barranco;12.99
+Chorrillos;DIDI;Barranco;13.5
+Chorrillos;DIDI;Comas;47.9
+Chorrillos;DIDI;Lince;19.9
+Chorrillos;DIDI;Pueblo Libre;21.23
+Chorrillos;DIDI;San Marin de Porres;41.8
+Chorrillos;DIDI;Santiago de Surco;13.77
+Chorrillos;DIDI;Villa Maria del Triunfo;21.3
+Chorrillos;ETX;Los Olivos;48.12
+Chorrillos;ETX;Miraflores;16.99
+Chorrillos;ETX;Punta Negra;43.66
+Chorrillos;ETX;San Marin de Porres;41.99
+Chorrillos;INDR;Chorrillos;7.87
+Chorrillos;INDR;Comas;48.44
+Chorrillos;INDR;El Agustino;32.7
+Chorrillos;INDR;Jesus Maria;21.33
+Chorrillos;INDR;Lima;23.9
+Chorrillos;INDR;Lince;21.33
+Chorrillos;INDR;Lince;21.56
+Chorrillos;INDR;Miraflores;18.77
+Chorrillos;INDR;San Borja;21.23
+Chorrillos;INDR;Santiago de Surco;14.54
+Chorrillos;INDR;Villa el Salvador;15.65
+Chorrillos;INDR;Villa Maria del Triunfo;19.9
+Chorrillos;INDR;Villa Maria del Triunfo;21.2
+Chorrillos;INDR;Villa Maria del Triunfo;21.5
+Chorrillos;TXB;Ancon;76.12
+Chorrillos;TXB;Barranco;12.88
+Chorrillos;TXB;Carabayllo;68.9
+Chorrillos;TXB;El Agustino;32.99
+Chorrillos;TXB;Jesus Maria;19.9
+Chorrillos;TXB;Rimac;29.21
+Chorrillos;TXB;San Marin de Porres;42
+Chorrillos;TXB;San Miguel;22.9
+Chorrillos;TXB;SJL;44.8
+Chorrillos;UBER;Ancon;75.98
+Chorrillos;UBER;Comas;48.21
+Chorrillos;UBER;Lima;23.88
+Chorrillos;UBER;Lurin;27.99
+Chorrillos;UBER;Lurin;28.32
+Chorrillos;UBER;Miraflores;18.54
+Chorrillos;UBER;Punta Negra;43.65
+Chorrillos;UBER;San Marin de Porres;34
+Chorrillos;UBER;San Miguel;22.76
+Chorrillos;UBER;San Miguel;22.88
+Comas;CBF;Carabayllo;22.54
+Comas;CBF;El Agustino;28.9
+Comas;CBF;Pueblo Libre;29.87
+Comas;CBF;Puente Piedra;16.54
+Comas;CBF;Punta Negra;100.23
+Comas;DIDI;Barranco;26
+Comas;DIDI;Barranco;38.88
+Comas;DIDI;Lince;30.43
+Comas;DIDI;Pueblo Libre;30.12
+Comas;DIDI;Puente Piedra;16.87
+Comas;DIDI;Punta Negra;98.76
+Comas;DIDI;Punta Negra;99.33
+Comas;DIDI;Punta Negra;99.43
+Comas;DIDI;San Borja;45.76
+Comas;DIDI;San Marin de Porres;18.65
+Comas;DIDI;San Miguel;29.54
+Comas;DIDI;Santa Anita;41.43
+Comas;DIDI;Jesus Maria;28.76
+Comas;ETX;Ancon;37.8
+Comas;ETX;Barranco;55
+Comas;ETX;Comas;8.99
+Comas;ETX;La Victoria;30.55
+Comas;ETX;La Victoria;30.65
+Comas;ETX;Lima;21.67
+Comas;ETX;Lurin;83.43
+Comas;ETX;Lurin;84.43
+Comas;ETX;San Marin de Porres;16.87
+Comas;ETX;San Miguel;28.98
+Comas;ETX;San Miguel;30.17
+Comas;ETX;Villa Maria del Triunfo;64.76
+Comas;ETX;Villa Maria del Triunfo;64.77
+Comas;INDR;Barranco;39.65
+Comas;INDR;Carabayllo;23.43
+Comas;INDR;Carabayllo;23.45
+Comas;INDR;Jesus Maria;28.99
+Comas;INDR;Lima;21.99
+Comas;INDR;Lince;29.98
+Comas;INDR;Pueblo Libre;30.17
+Comas;INDR;Pueblo Libre;30.54
+Comas;INDR;Punta Negra;98.79
+Comas;INDR;Punta Negra;98.94
+Comas;INDR;San Borja;45.78
+Comas;INDR;Santa Anita;41.88
+Comas;INDR;SJL;22.9
+Comas;TXB;Barranco;37.2
+Comas;TXB;Carabayllo;22.87
+Comas;TXB;Comas;5.65
+Comas;TXB;Comas;6.65
+Comas;TXB;La Victoria;30.43
+Comas;TXB;Miraflores;34.54
+Comas;TXB;Villa el Salvador;12
+Comas;TXB;Villa Maria del Triunfo;64.77
+Comas;UBER;Barranco;38.58
+Comas;UBER;Barranco;39.43
+Comas;UBER;Carabayllo;22.76
+Comas;UBER;Comas;7.76
+Comas;UBER;Comas;8.87
+Comas;UBER;Jesus Maria;28.87
+Comas;UBER;La Victoria;30.77
+Comas;UBER;La Victoria;30.89
+Comas;UBER;Lima;23.43
+Comas;UBER;Rimac;25.87
+Comas;UBER;Rimac;24.56
+Comas;UBER;San Marin de Porres;16.76
+Comas;UBER;Santa Anita;41.54
+Comas;UBER;SJL;22.78
+Comas;UBER;Villa el Salvador;66.67
+Comas;UBER;Villa Maria del Triunfo;64.54
+Comas;UBER;Villa Maria del Triunfo;67.87
+El Agustino;CBF;Chorrillos;36.54
+El Agustino;CBF;Chorrillos;36.87
+El Agustino;CBF;Comas;65.76
+El Agustino;CBF;El Agustino;10.55
+El Agustino;CBF;Puente Piedra;67.65
+El Agustino;CBF;Villa el Salvador;37.98
+El Agustino;DIDI;Barranco;31.34
+El Agustino;DIDI;Carabayllo;84.54
+El Agustino;DIDI;Chorrillos;37.87
+El Agustino;DIDI;Jesus Maria;38.54
+El Agustino;DIDI;Miraflores;29.7
+El Agustino;DIDI;San Borja;19.9
+El Agustino;DIDI;San Borja;20.21
+El Agustino;DIDI;San Miguel;36.54
+El Agustino;DIDI;Santa Anita;19.73
+El Agustino;DIDI;Santa Anita;17.76
+El Agustino;DIDI;Santiago de Surco;26.65
+El Agustino;DIDI;Santiago de Surco;26.87
+El Agustino;ETX;Barranco;31.32
+El Agustino;ETX;Villa el Salvador;40.21
+El Agustino;INDR;Ancon;86.76
+El Agustino;INDR;Barranco;31.33
+El Agustino;INDR;Comas;65.54
+El Agustino;INDR;El Agustino;10.32
+El Agustino;INDR;Lince;28.87
+El Agustino;INDR;Los Olivos;55.82
+El Agustino;INDR;Los Olivos;55.99
+El Agustino;INDR;Miraflores;29.43
+El Agustino;INDR;Pueblo Libre;34.54
+El Agustino;INDR;San Marin de Porres;54.54
+El Agustino;INDR;San Marin de Porres;54.67
+El Agustino;INDR;SJL;36.76
+El Agustino;INDR;Villa Maria del Triunfo;37.65
+El Agustino;INDR;Villa Maria del Triunfo;39.65
+El Agustino;TXB;Ancon;86.88
+El Agustino;TXB;Carabayllo;85.88
+El Agustino;TXB;La Victoria;9.3
+El Agustino;TXB;La Victoria;25.76
+El Agustino;TXB;Lince;29.65
+El Agustino;TXB;Los Olivos;55.65
+El Agustino;TXB;Los Olivos;55.76
+El Agustino;UBER;Barranco;30.9
+El Agustino;UBER;Carabayllo;85.65
+El Agustino;UBER;Jesus Maria;38.9
+El Agustino;UBER;Lince;26.76
+El Agustino;UBER;Pueblo Libre;34.43
+El Agustino;UBER;Puente Piedra;67.87
+El Agustino;UBER;San Borja;21.32
+El Agustino;UBER;Santiago de Surco;27.45
+El Agustino;UBER;SJL;36.54
+El Agustino;UBER;SJL;36.98
+El Agustino;UBER;Villa el Salvador;39.65
+Jesus Maria;CBF;Chorrillos;23.54
+Jesus Maria;CBF;Comas;37.65
+Jesus Maria;CBF;Comas;38.76
+Jesus Maria;CBF;El Agustino;20.43
+Jesus Maria;CBF;La Victoria;15.68
+Jesus Maria;CBF;Los Olivos;29.54
+Jesus Maria;CBF;Miraflores;21.32
+Jesus Maria;CBF;Santiago de Surco;22.65
+Jesus Maria;CBF;SJL;9
+Jesus Maria;DIDI;Carabayllo;38.87
+Jesus Maria;DIDI;Carabayllo;39.76
+Jesus Maria;DIDI;Jesus Maria;8.87
+Jesus Maria;DIDI;La Victoria;10.43
+Jesus Maria;DIDI;Puente Piedra;39.98
+Jesus Maria;DIDI;Santa Anita;19.43
+Jesus Maria;ETX;Ancon;65.54
+Jesus Maria;ETX;Carabayllo;36.65
+Jesus Maria;ETX;Chorrillos;26.54
+Jesus Maria;ETX;El Agustino;20.32
+Jesus Maria;ETX;Jesus Maria;11.65
+Jesus Maria;ETX;Jesus Maria;9.65
+Jesus Maria;ETX;Jesus Maria;11.17
+Jesus Maria;ETX;Lince;10.77
+Jesus Maria;ETX;Miraflores;17.76
+Jesus Maria;ETX;Miraflores;19.65
+Jesus Maria;ETX;Miraflores;19.98
+Jesus Maria;ETX;Miraflores;21.44
+Jesus Maria;ETX;Pueblo Libre;7.76
+Jesus Maria;INDR;El Agustino;20.61
+Jesus Maria;INDR;La Victoria;10.65
+Jesus Maria;INDR;La Victoria;12.43
+Jesus Maria;INDR;La Victoria;13.43
+Jesus Maria;INDR;Los Olivos;28.65
+Jesus Maria;INDR;Pueblo Libre;9.87
+Jesus Maria;INDR;Puente Piedra;39.78
+Jesus Maria;INDR;Rimac;19.88
+Jesus Maria;INDR;San Miguel;13.7
+Jesus Maria;INDR;San Miguel;16.87
+Jesus Maria;INDR;SJL;31.23
+Jesus Maria;TXB;Comas;39.65
+Jesus Maria;TXB;Lince;29.6
+Jesus Maria;TXB;Lince;10.32
+Jesus Maria;TXB;Lince;11.48
+Jesus Maria;TXB;Punta Negra;68.87
+Jesus Maria;TXB;Punta Negra;69.76
+Jesus Maria;TXB;Rimac;19.43
+Jesus Maria;TXB;San Marin de Porres;25.54
+Jesus Maria;TXB;San Marin de Porres;29.54
+Jesus Maria;TXB;SJL;31.79
+Jesus Maria;UBER;Barranco;17.87
+Jesus Maria;UBER;El Agustino;19.9
+Jesus Maria;UBER;Jesus Maria;10.12
+Jesus Maria;UBER;Lurin;50.43
+Jesus Maria;UBER;San Marin de Porres;27.76
+Jesus Maria;UBER;San Miguel;15.76
+Jesus Maria;UBER;San Miguel;17.11
+Jesus Maria;UBER;SJL;29.76
+La Victoria;CBF;Carabayllo;59.87
+La Victoria;CBF;Comas;38.98
+La Victoria;CBF;Comas;39.76
+La Victoria;CBF;El Agustino;15.88
+La Victoria;CBF;Jesus Maria;10.65
+La Victoria;CBF;La Victoria;7.87
+La Victoria;CBF;San Marin de Porres;33.65
+La Victoria;DIDI;Ancon;64.65
+La Victoria;DIDI;Carabayllo;60.32
+La Victoria;DIDI;Comas;37.76
+La Victoria;DIDI;El Agustino;26.9
+La Victoria;DIDI;La Victoria;10.32
+La Victoria;DIDI;La Victoria;7.65
+La Victoria;DIDI;Lima;11.32
+La Victoria;DIDI;Pueblo Libre;15.4
+La Victoria;DIDI;Pueblo Libre;16.42
+La Victoria;DIDI;Punta Negra;61.54
+La Victoria;DIDI;San Borja;11.43
+La Victoria;ETX;Barranco;15.65
+La Victoria;ETX;Barranco;16.87
+La Victoria;ETX;Barranco;17.65
+La Victoria;ETX;Barranco;17.99
+La Victoria;ETX;El Agustino;16.76
+La Victoria;ETX;Rimac;13.43
+La Victoria;INDR;Ancon;65.76
+La Victoria;INDR;Barranco;17.32
+La Victoria;INDR;Puente Piedra;45.78
+La Victoria;INDR;San Miguel;19.5
+La Victoria;INDR;Santiago de Surco;19.87
+La Victoria;TXB;Barranco;15.99
+La Victoria;TXB;Chorrillos;21.88
+La Victoria;TXB;Chorrillos;21.43
+La Victoria;TXB;Comas;39.43
+La Victoria;TXB;El Agustino;16.8
+La Victoria;TXB;La Victoria;7.89
+La Victoria;TXB;Lurin;60.43
+La Victoria;TXB;Lurin;61.43
+La Victoria;TXB;Miraflores;15.45
+La Victoria;TXB;Pueblo Libre;15.8
+La Victoria;TXB;Puente Piedra;43.54
+La Victoria;TXB;Puente Piedra;45.65
+La Victoria;TXB;Punta Negra;62.54
+La Victoria;TXB;Villa Maria del Triunfo;29.76
+La Victoria;UBER;Carabayllo;60.88
+La Victoria;UBER;Pueblo Libre;14.43
+La Victoria;UBER;Pueblo Libre;16.4
+La Victoria;UBER;Rimac;14.54
+La Victoria;UBER;San Miguel;17.87
+La Victoria;UBER;Santa Anita;12.43
+La Victoria;UBER;Santiago de Surco;19.52
+Lima;CBF;Barranco;26.65
+Lima;CBF;Carabayllo;67.98
+Lima;CBF;Carabayllo;68.54
+Lima;CBF;La Victoria;18.43
+Lima;CBF;Lince;20.43
+Lima;CBF;Los Olivos;25.54
+Lima;CBF;Lurin;69.9
+Lima;CBF;Punta Negra;85.87
+Lima;DIDI;Ancon;60.43
+Lima;DIDI;Ancon;62.34
+Lima;DIDI;Carabayllo;67.8
+Lima;DIDI;Lima;11.43
+Lima;DIDI;Lince;21.54
+Lima;DIDI;Los Olivos;22.9
+Lima;DIDI;Punta Negra;83.9
+Lima;DIDI;San Borja;34.7
+Lima;DIDI;Santiago de Surco;41.87
+Lima;DIDI;Santiago de Surco;43.43
+Lima;DIDI;Santiago de Surco;44.87
+Lima;ETX;Jesus Maria;16.9
+Lima;ETX;Lima;10.89
+Lima;ETX;Lima;11.65
+Lima;ETX;Pueblo Libre;20.32
+Lima;ETX;Puente Piedra;38.54
+Lima;ETX;Punta Negra;85.54
+Lima;ETX;Santa Anita;29.54
+Lima;ETX;Villa el Salvador;66.9
+Lima;ETX;Villa el Salvador;67.87
+Lima;ETX;Villa Maria del Triunfo;50.87
+Lima;INDR;Ancon;60.87
+Lima;INDR;Comas;30.32
+Lima;INDR;Jesus Maria;17.56
+Lima;INDR;La Victoria;19.68
+Lima;INDR;Lima;10.54
+Lima;INDR;Lima;10.77
+Lima;INDR;Lince;19.9
+Lima;INDR;SJL;36.43
+Lima;TXB;Ancon;61.68
+Lima;TXB;Lima;10.32
+Lima;TXB;Los Olivos;22.99
+Lima;TXB;Los Olivos;23.54
+Lima;TXB;Lurin;71.43
+Lima;TXB;Pueblo Libre;18.9
+Lima;TXB;Punta Negra;84
+Lima;TXB;Punta Negra;86.51
+Lima;TXB;Punta Negra;86.88
+Lima;TXB;Santa Anita;30.43
+Lima;UBER;Comas;29.9
+Lima;UBER;Comas;30.66
+Lima;UBER;El Agustino;15.9
+Lima;UBER;Jesus Maria;17.77
+Lima;UBER;La Victoria;17.9
+Lima;UBER;Lima;10.76
+Lima;UBER;Lima;10.88
+Lima;UBER;Pueblo Libre;20.65
+Lima;UBER;Pueblo Libre;21.43
+Lima;UBER;Puente Piedra;36.9
+Lima;UBER;Rimac;12.76
+Lima;UBER;San Borja;34.87
+Lima;UBER;Villa Maria del Triunfo;51.06
+Lince;CBF;Barranco;17.65
+Lince;CBF;Carabayllo;56.9
+Lince;CBF;Carabayllo;58.76
+Lince;CBF;Lima;12.98
+Lince;CBF;Lima;15.65
+Lince;CBF;Lurin;52.76
+Lince;CBF;Rimac;19.9
+Lince;CBF;Rimac;23.98
+Lince;CBF;San Miguel;21.43
+Lince;CBF;SJL;27.65
+Lince;CBF;SJL;30.65
+Lince;DIDI;Ancon;77.87
+Lince;DIDI;Rimac;24.65
+Lince;DIDI;SJL;31.65
+Lince;DIDI;Villa el Salvador;31.54
+Lince;ETX;Ancon;76.76
+Lince;ETX;Barranco;16.98
+Lince;ETX;Chorrillos;28.65
+Lince;ETX;Chorrillos;29
+Lince;ETX;Chorrillos;31.32
+Lince;ETX;Chorrillos;31.65
+Lince;ETX;Lima;16.54
+Lince;ETX;Lince;8.87
+Lince;ETX;Lurin;51.32
+Lince;ETX;Puente Piedra;41.01
+Lince;ETX;Punta Negra;67.65
+Lince;ETX;San Miguel;19.65
+Lince;ETX;Villa el Salvador;32.76
+Lince;INDR;Chorrillos;32.1
+Lince;INDR;Chorrillos;29.98
+Lince;INDR;Jesus Maria;10.56
+Lince;INDR;Lima;13.43
+Lince;INDR;Lima;15.88
+Lince;INDR;Miraflores;15.76
+Lince;INDR;Puente Piedra;39.65
+Lince;INDR;Rimac;23.43
+Lince;INDR;Rimac;23.76
+Lince;INDR;Rimac;25.62
+Lince;INDR;Santa Anita;17.43
+Lince;INDR;Santiago de Surco;19.9
+Lince;INDR;SJL;29.43
+Lince;TXB;Ancon;77.32
+Lince;TXB;Chorrillos;29.7
+Lince;TXB;Comas;54.2
+Lince;TXB;Comas;34.54
+Lince;TXB;La Victoria;10.9
+Lince;TXB;Pueblo Libre;12.9
+Lince;TXB;Pueblo Libre;14.54
+Lince;TXB;Pueblo Libre;15.76
+Lince;TXB;Puente Piedra;38.76
+Lince;TXB;Punta Negra;66.87
+Lince;TXB;Rimac;21.43
+Lince;TXB;San Borja;14.67
+Lince;TXB;San Borja;15.65
+Lince;TXB;San Marin de Porres;29.65
+Lince;TXB;San Marin de Porres;30.43
+Lince;TXB;San Miguel;18.54
+Lince;TXB;SJL;31.21
+Lince;TXB;SJL;32.43
+Lince;UBER;El Agustino;29.99
+Lince;UBER;La Victoria;11.54
+Lince;UBER;Miraflores;14.65
+Lince;UBER;Santiago de Surco;21.43
+Lince;UBER;Villa Maria del Triunfo;39.9
+Los Olivos;CBF;Ancon;46.1
+Los Olivos;CBF;Carabayllo;9.5
+Los Olivos;CBF;Carabayllo;10
+Los Olivos;CBF;Chorrillos;59.5
+Los Olivos;CBF;El Agustino;22
+Los Olivos;CBF;La Victoria;23.5
+Los Olivos;CBF;Lima;16
+Los Olivos;CBF;Miraflores;29.5
+Los Olivos;CBF;Pueblo Libre;23
+Los Olivos;CBF;San Marin de Porres;8.5
+Los Olivos;CBF;San Marin de Porres;8
+Los Olivos;CBF;San Miguel;22
+Los Olivos;CBF;San Miguel;22.5
+Los Olivos;CBF;Santa Anita;26.2
+Los Olivos;CBF;Santiago de Surco;45
+Los Olivos;CBF;SJL;30.3
+Los Olivos;DIDI;Barranco;45
+Los Olivos;DIDI;La Victoria;23.5
+Los Olivos;DIDI;Lince;22.7
+Los Olivos;DIDI;Miraflores;30
+Los Olivos;DIDI;Villa Maria del Triunfo;59.5
+Los Olivos;DIDI;Villa Maria del Triunfo;58.5
+Los Olivos;ETX;Lima;16.5
+Los Olivos;ETX;Lince;22.1
+Los Olivos;ETX;Pueblo Libre;24
+Los Olivos;ETX;Rimac;16.4
+Los Olivos;INDR;Ancon;46
+Los Olivos;INDR;Lima;16.7
+Los Olivos;INDR;Lince;23
+Los Olivos;INDR;Los Olivos;4
+Los Olivos;INDR;Pueblo Libre;23.1
+Los Olivos;INDR;San Marin de Porres;8.2
+Los Olivos;INDR;San Marin de Porres;7.9
+Los Olivos;INDR;Villa el Salvador;60
+Los Olivos;INDR;Villa Maria del Triunfo;58
+Los Olivos;TXB;Chorrillos;40
+Los Olivos;TXB;Jesus Maria;22.5
+Los Olivos;TXB;La Victoria;23.1
+Los Olivos;TXB;Lince;22.3
+Los Olivos;TXB;Lince;22.5
+Los Olivos;TXB;Los Olivos;4.5
+Los Olivos;TXB;Pueblo Libre;23.7
+Los Olivos;TXB;Rimac;17
+Los Olivos;TXB;San Miguel;22.2
+Los Olivos;TXB;Santiago de Surco;45.2
+Los Olivos;TXB;Villa el Salvador;59
+Los Olivos;TXB;Villa Maria del Triunfo;34.6
+Los Olivos;UBER;Los Olivos;5
+Los Olivos;UBER;Pueblo Libre;23.5
+Los Olivos;UBER;San Miguel;23
+Los Olivos;UBER;Villa el Salvador;59.5
+Los Olivos;UBER;Villa el Salvador;59.8
+Los Olivos;UBER;Villa Maria del Triunfo;59
+Lurin;CBF;Carabayllo;130
+Lurin;CBF;Chorrillos;39.4
+Lurin;CBF;Los Olivos;94.6
+Lurin;CBF;Pueblo Libre;70
+Lurin;CBF;Pueblo Libre;69.8
+Lurin;CBF;Puente Piedra;107.2
+Lurin;CBF;Punta Negra;25.4
+Lurin;CBF;San Borja;53.5
+Lurin;CBF;San Miguel;65
+Lurin;CBF;San Miguel;65.2
+Lurin;CBF;Santiago de Surco;44.9
+Lurin;CBF;SJL;118
+Lurin;DIDI;Ancon;136.4
+Lurin;DIDI;Lima;60.5
+Lurin;DIDI;Lima;60.3
+Lurin;DIDI;Los Olivos;94
+Lurin;DIDI;Lurin;7.5
+Lurin;DIDI;Puente Piedra;107.3
+Lurin;DIDI;Punta Negra;25.3
+Lurin;DIDI;Punta Negra;25.9
+Lurin;DIDI;Punta Negra;26
+Lurin;DIDI;San Marin de Porres;97.3
+Lurin;DIDI;Santiago de Surco;44.7
+Lurin;DIDI;SJL;118.9
+Lurin;DIDI;Villa el Salvador;17.5
+Lurin;ETX;Barranco;48.6
+Lurin;ETX;Jesus Maria;66.1
+Lurin;ETX;Lima;60
+Lurin;ETX;Lurin;8
+Lurin;ETX;Lurin;7.2
+Lurin;ETX;Puente Piedra;107
+Lurin;ETX;SJL;118.4
+Lurin;ETX;Villa Maria del Triunfo;24.8
+Lurin;INDR;Ancon;136
+Lurin;INDR;Ancon;136.5
+Lurin;INDR;Comas;101
+Lurin;INDR;Jesus Maria;66.5
+Lurin;INDR;Lince;63
+Lurin;INDR;Miraflores;54.7
+Lurin;INDR;Punta Negra;25
+Lurin;INDR;San Borja;53.9
+Lurin;INDR;San Borja;54
+Lurin;INDR;San Borja;53.7
+Lurin;INDR;San Marin de Porres;97
+Lurin;INDR;Santiago de Surco;44.5
+Lurin;INDR;Villa el Salvador;17
+Lurin;TXB;Barranco;48.9
+Lurin;TXB;Chorrillos;40
+Lurin;TXB;Comas;101.6
+Lurin;TXB;El Agustino;69
+Lurin;TXB;Jesus Maria;66.7
+Lurin;TXB;Jesus Maria;66
+Lurin;TXB;La Victoria;60
+Lurin;TXB;La Victoria;60.6
+Lurin;TXB;Los Olivos;94.1
+Lurin;TXB;Pueblo Libre;69.7
+Lurin;TXB;Rimac;80.6
+Lurin;TXB;Santa Anita;71
+Lurin;TXB;Santiago de Surco;45
+Lurin;TXB;SJL;118.3
+Lurin;UBER;Comas;101.4
+Lurin;UBER;Comas;101
+Lurin;UBER;Lince;63.4
+Lurin;UBER;Los Olivos;94.7
+Lurin;UBER;Los Olivos;94.3
+Lurin;UBER;Lurin;7.1
+Lurin;UBER;Lurin;7
+Lurin;UBER;Pueblo Libre;69
+Lurin;UBER;Punta Negra;25.1
+Lurin;UBER;Punta Negra;25.7
+Lurin;UBER;Rimac;80
+Lurin;UBER;San Marin de Porres;97.5
+Lurin;UBER;San Miguel;65.3
+Lurin;UBER;San Miguel;65.7
+Miraflores;CBF;Barranco;10
+Miraflores;CBF;Lince;12.7
+Miraflores;CBF;Villa Maria del Triunfo;24.7
+Miraflores;DIDI;Ancon;74
+Miraflores;DIDI;Chorrillos;16.4
+Miraflores;DIDI;Chorrillos;16.3
+Miraflores;DIDI;Comas;40.5
+Miraflores;DIDI;Jesus Maria;14.4
+Miraflores;DIDI;Miraflores;7
+Miraflores;DIDI;Pueblo Libre;18.4
+Miraflores;DIDI;Puente Piedra;45
+Miraflores;DIDI;Puente Piedra;45.6
+Miraflores;DIDI;Puente Piedra;45.8
+Miraflores;DIDI;Puente Piedra;45.9
+Miraflores;DIDI;Rimac;20
+Miraflores;DIDI;San Marin de Porres;33
+Miraflores;DIDI;San Miguel;15.6
+Miraflores;DIDI;Santiago de Surco;13.5
+Miraflores;DIDI;Villa el Salvador;25
+Miraflores;DIDI;Villa Maria del Triunfo;18
+Miraflores;ETX;Chorrillos;16
+Miraflores;ETX;Villa Maria del Triunfo;24.6
+Miraflores;INDR;Chorrillos;16.9
+Miraflores;INDR;Chorrillos;16.2
+Miraflores;INDR;Comas;40.1
+Miraflores;INDR;El Agustino;22
+Miraflores;INDR;El Agustino;22.7
+Miraflores;INDR;Lima;15.4
+Miraflores;INDR;Punta Negra;62.4
+Miraflores;INDR;Rimac;20.7
+Miraflores;INDR;San Marin de Porres;33.4
+Miraflores;INDR;San Miguel;15
+Miraflores;TXB;Carabayllo;65.4
+Miraflores;TXB;Carabayllo;65.1
+Miraflores;TXB;Carabayllo;65.3
+Miraflores;TXB;El Agustino;22.5
+Miraflores;TXB;La Victoria;11.5
+Miraflores;TXB;Lima;15
+Miraflores;TXB;Puente Piedra;45.3
+Miraflores;TXB;Punta Negra;62.7
+Miraflores;TXB;Punta Negra;62
+Miraflores;TXB;Santiago de Surco;13
+Miraflores;TXB;SJL;14.3
+Miraflores;UBER;Ancon;74.5
+Miraflores;UBER;Comas;40
+Miraflores;UBER;La Victoria;11.8
+Miraflores;UBER;La Victoria;11.3
+Miraflores;UBER;Los Olivos;9.7
+Miraflores;UBER;Los Olivos;33.2
+Miraflores;UBER;San Miguel;15.4
+Miraflores;UBER;Santiago de Surco;13.8
+Miraflores;UBER;Villa el Salvador;25.4
+Pueblo Libre;CBF;Ancon;58.7
+Pueblo Libre;CBF;Ancon;58.2
+Pueblo Libre;CBF;Barranco;13
+Pueblo Libre;CBF;Carabayllo;54.8
+Pueblo Libre;CBF;Lince;11.7
+Pueblo Libre;CBF;Lurin;50.8
+Pueblo Libre;CBF;Puente Piedra;34.6
+Pueblo Libre;CBF;Punta Negra;68
+Pueblo Libre;CBF;San Miguel;9
+Pueblo Libre;CBF;San Miguel;9.5
+Pueblo Libre;CBF;Villa Maria del Triunfo;37.2
+Pueblo Libre;DIDI;Ancon;58.4
+Pueblo Libre;DIDI;Carabayllo;54.2
+Pueblo Libre;DIDI;Carabayllo;54.6
+Pueblo Libre;DIDI;El Agustino;18
+Pueblo Libre;DIDI;Jesus Maria;9.5
+Pueblo Libre;DIDI;Lima;9.4
+Pueblo Libre;DIDI;San Miguel;9.8
+Pueblo Libre;DIDI;Villa Maria del Triunfo;37
+Pueblo Libre;ETX;Ancon;58
+Pueblo Libre;ETX;Carabayllo;53.9
+Pueblo Libre;ETX;Chorrillos;23.9
+Pueblo Libre;ETX;Comas;29.4
+Pueblo Libre;ETX;Comas;29.6
+Pueblo Libre;ETX;Jesus Maria;9.3
+Pueblo Libre;ETX;Lima;9
+Pueblo Libre;ETX;Lima;9.7
+Pueblo Libre;ETX;Lince;11
+Pueblo Libre;ETX;Los Olivos;20.9
+Pueblo Libre;ETX;San Marin de Porres;19.6
+Pueblo Libre;INDR;La Victoria;12
+Pueblo Libre;INDR;Los Olivos;20.4
+Pueblo Libre;INDR;Punta Negra;68.9
+Pueblo Libre;INDR;Rimac;15.1
+Pueblo Libre;INDR;San Marin de Porres;19.8
+Pueblo Libre;INDR;Santiago de Surco;25.6
+Pueblo Libre;INDR;SJL;26.9
+Pueblo Libre;TXB;Barranco;13.5
+Pueblo Libre;TXB;Carabayllo;55
+Pueblo Libre;TXB;Comas;29
+Pueblo Libre;TXB;El Agustino;18.6
+Pueblo Libre;TXB;Lima;9.6
+Pueblo Libre;TXB;Puente Piedra;34
+Pueblo Libre;TXB;Puente Piedra;34.9
+Pueblo Libre;TXB;Santa Anita;22
+Pueblo Libre;TXB;Santa Anita;22.4
+Pueblo Libre;TXB;SJL;26
+Pueblo Libre;TXB;Villa el Salvador;36.9
+Pueblo Libre;UBER;Barranco;13.7
+Pueblo Libre;UBER;Carabayllo;54.3
+Pueblo Libre;UBER;Carabayllo;54.9
+Pueblo Libre;UBER;Jesus Maria;9
+Pueblo Libre;UBER;Los Olivos;20
+Pueblo Libre;UBER;Los Olivos;20.7
+Pueblo Libre;UBER;Puente Piedra;34.1
+Pueblo Libre;UBER;San Borja;16.8
+Pueblo Libre;UBER;San Borja;16.5
+Pueblo Libre;UBER;San Marin de Porres;19
+Pueblo Libre;UBER;Santiago de Surco;25.3
+Puente Piedra;CBF;Carabayllo;39
+Puente Piedra;CBF;Carabayllo;39.4
+Puente Piedra;CBF;Puente Piedra;6
+Puente Piedra;CBF;San Marin de Porres;37.4
+Puente Piedra;CBF;San Marin de Porres;37.6
+Puente Piedra;CBF;San Marin de Porres;37.9
+Puente Piedra;DIDI;Ancon;10.4
+Puente Piedra;DIDI;Carabayllo;39.7
+Puente Piedra;DIDI;Jesus Maria;55.8
+Puente Piedra;DIDI;La Victoria;56.7
+Puente Piedra;DIDI;Lima;46
+Puente Piedra;DIDI;Los Olivos;30
+Puente Piedra;DIDI;Pueblo Libre;56.7
+Puente Piedra;DIDI;Rimac;72.7
+Puente Piedra;DIDI;San Borja;74.2
+Puente Piedra;DIDI;San Miguel;55.4
+Puente Piedra;DIDI;SJL;56.3
+Puente Piedra;DIDI;Villa Maria del Triunfo;98.3
+Puente Piedra;ETX;Ancon;10
+Puente Piedra;ETX;Carabayllo;39.1
+Puente Piedra;ETX;El Agustino;54
+Puente Piedra;ETX;Jesus Maria;55
+Puente Piedra;ETX;Jesus Maria;55.6
+Puente Piedra;ETX;La Victoria;56.1
+Puente Piedra;ETX;Lince;54.3
+Puente Piedra;ETX;Los Olivos;30.1
+Puente Piedra;ETX;San Borja;74.3
+Puente Piedra;ETX;San Borja;74
+Puente Piedra;ETX;Santa Anita;59.9
+Puente Piedra;ETX;SJL;56
+Puente Piedra;ETX;SJL;56.7
+Puente Piedra;ETX;SJL;56.1
+Puente Piedra;ETX;Villa Maria del Triunfo;98
+Puente Piedra;INDR;Chorrillos;77.6
+Puente Piedra;INDR;Jesus Maria;55.3
+Puente Piedra;INDR;Lima;46.8
+Puente Piedra;INDR;Lurin;116.4
+Puente Piedra;INDR;Lurin;116.8
+Puente Piedra;INDR;Rimac;72.5
+Puente Piedra;INDR;Santa Anita;59.4
+Puente Piedra;INDR;Villa el Salvador;97.7
+Puente Piedra;TXB;Comas;44.5
+Puente Piedra;TXB;Jesus Maria;55.9
+Puente Piedra;TXB;La Victoria;56
+Puente Piedra;TXB;Lima;46.7
+Puente Piedra;TXB;Lince;54.1
+Puente Piedra;TXB;Miraflores;62.3
+Puente Piedra;TXB;Pueblo Libre;55.4
+Puente Piedra;TXB;San Borja;74.8
+Puente Piedra;TXB;Santa Anita;59.1
+Puente Piedra;UBER;Jesus Maria;55.2
+Puente Piedra;UBER;La Victoria;56.3
+Puente Piedra;UBER;Rimac;72.3
+Puente Piedra;UBER;Rimac;72
+Puente Piedra;UBER;San Miguel;55.2
+Puente Piedra;UBER;Santa Anita;60
+Puente Piedra;UBER;Santa Anita;59
+Puente Piedra;UBER;Villa Maria del Triunfo;98.5
+Puente Piedra;UBER;Rimac;72.8
+Punta Negra;CBF;Lince;46.7
+Punta Negra;CBF;Lurin;10.2
+Punta Negra;CBF;Lurin;10.5
+Punta Negra;CBF;SJL;65.6
+Punta Negra;DIDI;Ancon;110.3
+Punta Negra;DIDI;Barranco;41.9
+Punta Negra;DIDI;El Agustino;53
+Punta Negra;DIDI;El Agustino;53.2
+Punta Negra;DIDI;Jesus Maria;50.2
+Punta Negra;DIDI;Jesus Maria;39.5
+Punta Negra;DIDI;Lima;51.9
+Punta Negra;DIDI;Punta Negra;5
+Punta Negra;DIDI;Punta Negra;6.5
+Punta Negra;DIDI;Villa Maria del Triunfo;20.8
+Punta Negra;ETX;La Victoria;45
+Punta Negra;ETX;Lima;51.7
+Punta Negra;ETX;Pueblo Libre;50.4
+Punta Negra;ETX;San Marin de Porres;77.4
+Punta Negra;INDR;Ancon;110.8
+Punta Negra;INDR;Barranco;41.5
+Punta Negra;INDR;Carabayllo;105.5
+Punta Negra;INDR;El Agustino;53.4
+Punta Negra;INDR;El Agustino;53.8
+Punta Negra;INDR;Jesus Maria;50.3
+Punta Negra;INDR;Jesus Maria;39.3
+Punta Negra;INDR;Lima;50.9
+Punta Negra;INDR;San Marin de Porres;77
+Punta Negra;INDR;Santa Anita;59.9
+Punta Negra;INDR;Santiago de Surco;31.8
+Punta Negra;INDR;SJL;65.7
+Punta Negra;INDR;SJL;65.3
+Punta Negra;TXB;Ancon;110.5
+Punta Negra;TXB;Barranco;41.6
+Punta Negra;TXB;Jesus Maria;50
+Punta Negra;TXB;Jesus Maria;50.1
+Punta Negra;UBER;Ancon;110.6
+Punta Negra;UBER;Carabayllo;106
+Punta Negra;UBER;El Agustino;53.6
+Punta Negra;UBER;La Victoria;44.9
+Punta Negra;UBER;La Victoria;45.3
+Punta Negra;UBER;Lince;46.9
+Punta Negra;UBER;Lurin;10.3
+Punta Negra;UBER;Punta Negra;6
+Rimac;CBF;Ancon;56.7
+Rimac;CBF;La Victoria;14.8
+Rimac;CBF;Lima;9
+Rimac;CBF;San Borja;26
+Rimac;CBF;San Borja;26.5
+Rimac;CBF;San Miguel;17.5
+Rimac;CBF;San Miguel;17.6
+Rimac;CBF;Santiago de Surco;36.2
+Rimac;CBF;SJL;16.7
+Rimac;CBF;SJL;16.2
+Rimac;DIDI;Comas;26.9
+Rimac;DIDI;El Agustino;17
+Rimac;DIDI;Lince;14.1
+Rimac;DIDI;Lurin;65
+Rimac;DIDI;Miraflores;19.7
+Rimac;DIDI;Pueblo Libre;14.7
+Rimac;DIDI;Rimac;6
+Rimac;DIDI;San Borja;26.9
+Rimac;DIDI;San Miguel;17.2
+Rimac;DIDI;Santa Anita;22.7
+Rimac;ETX;Jesus Maria;16
+Rimac;ETX;La Victoria;14.2
+Rimac;ETX;Lima;10
+Rimac;ETX;Puente Piedra;28.7
+Rimac;ETX;Rimac;5
+Rimac;ETX;SJL;16.3
+Rimac;ETX;Villa el Salvador;47.8
+Rimac;ETX;Villa el Salvador;47.9
+Rimac;ETX;Villa el Salvador;47.3
+Rimac;ETX;Villa Maria del Triunfo;47.2
+Rimac;INDR;Barranco;26.7
+Rimac;INDR;El Agustino;17.8
+Rimac;INDR;Jesus Maria;16.5
+Rimac;INDR;La Victoria;14.5
+Rimac;INDR;Los Olivos;17
+Rimac;INDR;Los Olivos;17.4
+Rimac;INDR;Lurin;65.7
+Rimac;INDR;Miraflores;19
+Rimac;INDR;Pueblo Libre;14
+Rimac;INDR;San Borja;26.7
+Rimac;INDR;San Miguel;17
+Rimac;INDR;Santiago de Surco;36.7
+Rimac;INDR;Villa Maria del Triunfo;47.8
+Rimac;TXB;Carabayllo;51
+Rimac;TXB;Chorrillos;36
+Rimac;TXB;Lima;9.5
+Rimac;TXB;Los Olivos;17.6
+Rimac;TXB;Punta Negra;81.8
+Rimac;TXB;Rimac;7
+Rimac;TXB;Santa Anita;22.5
+Rimac;TXB;SJL;16.5
+Rimac;TXB;Villa Maria del Triunfo;47
+Rimac;TXB;Villa Maria del Triunfo;47.1
+Rimac;UBER;Ancon;56.8
+Rimac;UBER;Chorrillos;36.7
+Rimac;UBER;Comas;27
+Rimac;UBER;El Agustino;17.4
+Rimac;UBER;La Victoria;14.6
+Rimac;UBER;Pueblo Libre;14.5
+Rimac;UBER;Pueblo Libre;14.8
+Rimac;UBER;Rimac;6.5
+Rimac;UBER;Santa Anita;22
+Rimac;UBER;Villa el Salvador;47
+Rimac;UBER;Villa el Salvador;47.1
+San Borja;CBF;El Agustino;20.5
+San Borja;CBF;El Agustino;20
+San Borja;CBF;El Agustino;20.9
+San Borja;CBF;La Victoria;10.8
+San Borja;CBF;Lince;13
+San Borja;CBF;San Borja;5
+San Borja;CBF;San Marin de Porres;43
+San Borja;CBF;San Miguel;18.9
+San Borja;CBF;Villa el Salvador;22.8
+San Borja;CBF;Villa Maria del Triunfo;22.9
+San Borja;DIDI;Carabayllo;72.1
+San Borja;DIDI;Chorrillos;19.1
+San Borja;DIDI;El Agustino;20.1
+San Borja;DIDI;La Victoria;10.5
+San Borja;DIDI;Lima;13.9
+San Borja;DIDI;Lince;12
+San Borja;DIDI;Punta Negra;57
+San Borja;DIDI;San Miguel;18.6
+San Borja;DIDI;Santiago de Surco;14.9
+San Borja;DIDI;SJL;252
+San Borja;DIDI;SJL;32.7
+San Borja;ETX;Barranco;16
+San Borja;ETX;Lince;12.4
+San Borja;ETX;Lince;12.9
+San Borja;ETX;Puente Piedra;52.7
+San Borja;ETX;Rimac;26.8
+San Borja;INDR;Chorrillos;19
+San Borja;INDR;Comas;48.7
+San Borja;INDR;Lima;13.6
+San Borja;INDR;Puente Piedra;52
+San Borja;INDR;San Marin de Porres;43.4
+San Borja;INDR;San Miguel;18
+San Borja;INDR;San Miguel;18.5
+San Borja;TXB;Carabayllo;72.8
+San Borja;TXB;El Agustino;20.2
+San Borja;TXB;Lima;13.4
+San Borja;TXB;Lurin;40.6
+San Borja;TXB;Pueblo Libre;18.1
+San Borja;TXB;Pueblo Libre;18.4
+San Borja;TXB;Puente Piedra;52.5
+San Borja;TXB;Punta Negra;57.5
+San Borja;TXB;San Marin de Porres;43.4
+San Borja;TXB;Santa Anita;21.5
+San Borja;TXB;SJL;32
+San Borja;UBER;Barranco;16.5
+San Borja;UBER;Barranco;16.1
+San Borja;UBER;Carabayllo;72.5
+San Borja;UBER;Comas;48
+San Borja;UBER;Jesus Maria;14.5
+San Borja;UBER;La Victoria;10
+San Borja;UBER;Lince;13.1
+San Borja;UBER;San Borja;6
+San Borja;UBER;San Marin de Porres;43.7
+San Borja;UBER;SJL;32.9
+San Marin de Porres;CBF;Ancon;40
+San Marin de Porres;CBF;Ancon;38.5
+San Marin de Porres;CBF;Chorrillos;27.9
+San Marin de Porres;CBF;Miraflores;22.7
+San Marin de Porres;CBF;Puente Piedra;20
+San Marin de Porres;CBF;Puente Piedra;18.4
+San Marin de Porres;CBF;Puente Piedra;19
+San Marin de Porres;CBF;Punta Negra;70
+San Marin de Porres;CBF;Villa el Salvador;29
+San Marin de Porres;DIDI;Ancon;37.8
+San Marin de Porres;DIDI;Chorrillos;28.6
+San Marin de Porres;DIDI;Lima;18
+San Marin de Porres;DIDI;Lince;20
+San Marin de Porres;DIDI;Lurin;38
+San Marin de Porres;DIDI;Miraflores;23.5
+San Marin de Porres;DIDI;Pueblo Libre;21
+San Marin de Porres;DIDI;Rimac;21
+San Marin de Porres;DIDI;San Marin de Porres;8.5
+San Marin de Porres;DIDI;San Miguel;25
+San Marin de Porres;DIDI;Santa Anita;35
+San Marin de Porres;ETX;Ancon;38.5
+San Marin de Porres;ETX;Ancon;38.2
+San Marin de Porres;ETX;Barranco;39
+San Marin de Porres;ETX;Chorrillos;28
+San Marin de Porres;ETX;Jesus Maria;24
+San Marin de Porres;ETX;La Victoria;18
+San Marin de Porres;ETX;Lince;19.7
+San Marin de Porres;ETX;Lurin;41
+San Marin de Porres;ETX;Miraflores;22
+San Marin de Porres;INDR;Carabayllo;21
+San Marin de Porres;INDR;Comas;16.5
+San Marin de Porres;INDR;Los Olivos;14.2
+San Marin de Porres;INDR;Lurin;41.5
+San Marin de Porres;INDR;Punta Negra;77
+San Marin de Porres;INDR;SJL;25
+San Marin de Porres;TXB;Barranco;39.6
+San Marin de Porres;TXB;Barranco;39.4
+San Marin de Porres;TXB;Jesus Maria;22
+San Marin de Porres;TXB;Jesus Maria;23.1
+San Marin de Porres;TXB;La Victoria;21
+San Marin de Porres;TXB;La Victoria;20.2
+San Marin de Porres;TXB;Los Olivos;12
+San Marin de Porres;TXB;Miraflores;23.1
+San Marin de Porres;TXB;Rimac;19
+San Marin de Porres;TXB;Rimac;20
+San Marin de Porres;TXB;Rimac;20.2
+San Marin de Porres;TXB;Santa Anita;34.7
+San Marin de Porres;TXB;SJL;24.3
+San Marin de Porres;TXB;Villa el Salvador;28
+San Marin de Porres;TXB;Villa Maria del Triunfo;31.2
+San Marin de Porres;UBER;Ancon;38
+San Marin de Porres;UBER;Chorrillos;29
+San Marin de Porres;UBER;La Victoria;19
+San Marin de Porres;UBER;Lurin;42
+San Marin de Porres;UBER;Pueblo Libre;20
+San Marin de Porres;UBER;Punta Negra;68
+San Marin de Porres;UBER;SJL;29
+San Marin de Porres;UBER;SJL;29.6
+San Miguel;CBF;Ancon;50
+San Miguel;CBF;Barranco;23.7
+San Miguel;CBF;Jesus Maria;13.5
+San Miguel;CBF;Lima;21
+San Miguel;CBF;Lince;19.4
+San Miguel;CBF;Los Olivos;22.7
+San Miguel;CBF;Pueblo Libre;13.1
+San Miguel;CBF;Rimac;24.2
+San Miguel;CBF;Rimac;25.6
+San Miguel;CBF;San Borja;23
+San Miguel;CBF;San Miguel;8.6
+San Miguel;CBF;Villa el Salvador;28
+San Miguel;DIDI;Ancon;51.4
+San Miguel;DIDI;Barranco;24
+San Miguel;DIDI;Lince;17.6
+San Miguel;DIDI;Lurin;48
+San Miguel;DIDI;Puente Piedra;25
+San Miguel;DIDI;Punta Negra;70
+San Miguel;DIDI;Punta Negra;71.5
+San Miguel;DIDI;San Miguel;8
+San Miguel;DIDI;Santiago de Surco;23
+San Miguel;ETX;Chorrillos;25
+San Miguel;ETX;Comas;28
+San Miguel;ETX;Lince;18.6
+San Miguel;ETX;Pueblo Libre;12
+San Miguel;ETX;Puente Piedra;25.9
+San Miguel;ETX;Rimac;25
+San Miguel;ETX;San Borja;22
+San Miguel;ETX;San Marin de Porres;24
+San Miguel;ETX;San Miguel;9.4
+San Miguel;ETX;Santiago de Surco;23.4
+San Miguel;ETX;SJL;26
+San Miguel;ETX;Villa Maria del Triunfo;30
+San Miguel;INDR;Ancon;48.2
+San Miguel;INDR;Lince;17
+San Miguel;INDR;Lince;16.2
+San Miguel;INDR;Lurin;50.2
+San Miguel;INDR;Lurin;51
+San Miguel;INDR;Pueblo Libre;11
+San Miguel;INDR;Santa Anita;20
+San Miguel;INDR;Villa el Salvador;27.4
+San Miguel;INDR;Villa Maria del Triunfo;29.9
+San Miguel;TXB;Comas;29.4
+San Miguel;TXB;Comas;29.3
+San Miguel;TXB;El Agustino;28.6
+San Miguel;TXB;La Victoria;19
+San Miguel;TXB;La Victoria;20.3
+San Miguel;TXB;Lima;22.3
+San Miguel;TXB;Lince;18
+San Miguel;TXB;Los Olivos;23.1
+San Miguel;TXB;Miraflores;18
+San Miguel;TXB;San Borja;22.5
+San Miguel;TXB;San Borja;23.4
+San Miguel;TXB;Villa Maria del Triunfo;29.2
+San Miguel;UBER;Ancon;51
+San Miguel;UBER;El Agustino;28
+San Miguel;UBER;Lince;16.9
+San Miguel;UBER;Lince;21
+San Miguel;UBER;Los Olivos;23
+San Miguel;UBER;Miraflores;19.2
+San Miguel;UBER;Pueblo Libre;12.3
+San Miguel;UBER;Punta Negra;62
+San Miguel;UBER;San Miguel;7.5
+San Miguel;UBER;Santa Anita;21.8
+San Miguel;UBER;Villa Maria del Triunfo;30.2
+Santa Anita;CBF;Barranco;25
+Santa Anita;CBF;Chorrillos;24.6
+Santa Anita;CBF;Chorrillos;25.9
+Santa Anita;CBF;El Agustino;24.8
+Santa Anita;CBF;Jesus Maria;29.1
+Santa Anita;CBF;La Victoria;22.8
+Santa Anita;CBF;Los Olivos;23
+Santa Anita;CBF;Lurin;59.8
+Santa Anita;CBF;Pueblo Libre;26.9
+Santa Anita;CBF;San Borja;27
+Santa Anita;CBF;San Marin de Porres;32
+Santa Anita;CBF;Villa el Salvador;24.5
+Santa Anita;CBF;Villa Maria del Triunfo;30
+Santa Anita;CBF;Villa Maria del Triunfo;32
+Santa Anita;DIDI;Ancon;57.6
+Santa Anita;DIDI;Barranco;25
+Santa Anita;DIDI;Comas;32
+Santa Anita;DIDI;El Agustino;24.6
+Santa Anita;DIDI;Jesus Maria;28.9
+Santa Anita;DIDI;La Victoria;22
+Santa Anita;DIDI;Lince;24
+Santa Anita;DIDI;Lurin;58
+Santa Anita;DIDI;Rimac;29
+Santa Anita;DIDI;San Borja;26.4
+Santa Anita;DIDI;San Miguel;31.8
+Santa Anita;DIDI;Santiago de Surco;28
+Santa Anita;ETX;Ancon;58
+Santa Anita;ETX;Chorrillos;24
+Santa Anita;ETX;Jesus Maria;29
+Santa Anita;ETX;Lince;23.5
+Santa Anita;ETX;Miraflores;25
+Santa Anita;ETX;Rimac;27.9
+Santa Anita;ETX;San Marin de Porres;31.5
+Santa Anita;INDR;Barranco;24
+Santa Anita;INDR;Comas;31
+Santa Anita;INDR;Jesus Maria;29
+Santa Anita;INDR;Lima;25.8
+Santa Anita;INDR;Lima;24
+Santa Anita;INDR;Lima;26.4
+Santa Anita;INDR;Puente Piedra;34
+Santa Anita;INDR;Rimac;27
+Santa Anita;INDR;San Borja;26.8
+Santa Anita;INDR;San Borja;27
+Santa Anita;INDR;San Marin de Porres;30.6
+Santa Anita;TXB;Barranco;24.8
+Santa Anita;TXB;Chorrillos;26
+Santa Anita;TXB;El Agustino;22
+Santa Anita;TXB;El Agustino;24
+Santa Anita;TXB;Jesus Maria;29.5
+Santa Anita;TXB;La Victoria;23
+Santa Anita;TXB;Lince;23.8
+Santa Anita;TXB;Puente Piedra;32
+Santa Anita;TXB;Santa Anita;8
+Santa Anita;UBER;Carabayllo;27.5
+Santa Anita;UBER;Carabayllo;30
+Santa Anita;UBER;Comas;31.5
+Santa Anita;UBER;Lima;25
+Santiago de Surco;CBF;Comas;51.2
+Santiago de Surco;CBF;Comas;52
+Santiago de Surco;CBF;La Victoria;32
+Santiago de Surco;CBF;Lima;20
+Santiago de Surco;CBF;San Borja;19
+Santiago de Surco;CBF;Villa Maria del Triunfo;13.6
+Santiago de Surco;DIDI;Barranco;12
+Santiago de Surco;DIDI;Barranco;13.8
+Santiago de Surco;DIDI;Barranco;14
+Santiago de Surco;DIDI;Carabayllo;67
+Santiago de Surco;DIDI;La Victoria;31
+Santiago de Surco;DIDI;Lurin;62
+Santiago de Surco;DIDI;San Borja;19.4
+Santiago de Surco;DIDI;San Marin de Porres;32
+Santiago de Surco;DIDI;Santa Anita;27
+Santiago de Surco;DIDI;SJL;31
+Santiago de Surco;DIDI;Villa Maria del Triunfo;12
+Santiago de Surco;ETX;Barranco;13.5
+Santiago de Surco;ETX;Carabayllo;64
+Santiago de Surco;ETX;El Agustino;32
+Santiago de Surco;ETX;Lince;20
+Santiago de Surco;ETX;Los Olivos;40
+Santiago de Surco;ETX;Punta Negra;80
+Santiago de Surco;ETX;San Marin de Porres;30
+Santiago de Surco;ETX;Santa Anita;30
+Santiago de Surco;INDR;Ancon;90
+Santiago de Surco;INDR;Barranco;14.5
+Santiago de Surco;INDR;Puente Piedra;60
+Santiago de Surco;INDR;Santiago de Surco;7.6
+Santiago de Surco;TXB;El Agustino;30
+Santiago de Surco;TXB;El Agustino;32.5
+Santiago de Surco;TXB;Miraflores;21
+Santiago de Surco;TXB;Miraflores;22
+Santiago de Surco;TXB;Pueblo Libre;23
+Santiago de Surco;TXB;Pueblo Libre;24.8
+Santiago de Surco;TXB;Pueblo Libre;25
+Santiago de Surco;TXB;Punta Negra;82.5
+Santiago de Surco;TXB;Rimac;30
+Santiago de Surco;TXB;Rimac;32
+Santiago de Surco;TXB;Santiago de Surco;8
+Santiago de Surco;TXB;Villa el Salvador;14
+Santiago de Surco;TXB;Villa Maria del Triunfo;13.8
+Santiago de Surco;UBER;Carabayllo;60
+Santiago de Surco;UBER;Chorrillos;15
+Santiago de Surco;UBER;Comas;50
+Santiago de Surco;UBER;Lima;21
+Santiago de Surco;UBER;Lurin;60
+Santiago de Surco;UBER;Lurin;62.5
+Santiago de Surco;UBER;Puente Piedra;59
+Santiago de Surco;UBER;Puente Piedra;59.6
+Santiago de Surco;UBER;San Marin de Porres;31.5
+Santiago de Surco;UBER;San Marin de Porres;32.4
+Santiago de Surco;UBER;San Miguel;25
+Santiago de Surco;UBER;San Miguel;24.8
+Santiago de Surco;UBER;Villa el Salvador;16
+Santiago de Surco;UBER;Villa el Salvador;14.8
+SJL;CBF;Barranco;45
+SJL;CBF;Barranco;38
+SJL;CBF;Jesus Maria;32
+SJL;CBF;Jesus Maria;34.8
+SJL;CBF;Lima;24
+SJL;CBF;Los Olivos;117
+SJL;CBF;Miraflores;32
+SJL;CBF;San Borja;30
+SJL;CBF;San Marin de Porres;34.2
+SJL;CBF;San Marin de Porres;35.2
+SJL;CBF;San Marin de Porres;35.4
+SJL;CBF;San Miguel;31
+SJL;CBF;Santa Anita;36
+SJL;DIDI;Carabayllo;48
+SJL;DIDI;Jesus Maria;28
+SJL;DIDI;Lince;23
+SJL;DIDI;Lurin;100
+SJL;DIDI;San Marin de Porres;35
+SJL;DIDI;Santa Anita;40
+SJL;DIDI;Santiago de Surco;31.4
+SJL;DIDI;Villa el Salvador;40
+SJL;DIDI;Villa Maria del Triunfo;42.4
+SJL;ETX;Barranco;34
+SJL;ETX;Chorrillos;36
+SJL;ETX;Lima;24.6
+SJL;ETX;Miraflores;32.4
+SJL;ETX;Pueblo Libre;27
+SJL;ETX;Puente Piedra;31.2
+SJL;ETX;SJL;7.5
+SJL;ETX;SJL;9
+SJL;INDR;Ancon;85.9
+SJL;INDR;Barranco;42.8
+SJL;INDR;El Agustino;19.8
+SJL;INDR;Jesus Maria;29
+SJL;INDR;La Victoria;21.8
+SJL;INDR;La Victoria;22
+SJL;INDR;Lima;25
+SJL;INDR;Los Olivos;118.3
+SJL;INDR;Los Olivos;118
+SJL;INDR;Lurin;110
+SJL;INDR;SJL;8
+SJL;TXB;El Agustino;20
+SJL;TXB;Jesus Maria;34
+SJL;TXB;Puente Piedra;30
+SJL;TXB;San Marin de Porres;35.6
+SJL;TXB;Santiago de Surco;30
+SJL;UBER;Ancon;86
+SJL;UBER;Ancon;84
+SJL;UBER;El Agustino;18
+SJL;UBER;Jesus Maria;34.5
+SJL;UBER;La Victoria;20
+SJL;UBER;Lince;25.9
+SJL;UBER;Los Olivos;118.4
+SJL;UBER;Lurin;117
+SJL;UBER;Lurin;116
+Villa el Salvador;CBF;Chorrillos;27
+Villa el Salvador;CBF;Los Olivos;40
+Villa el Salvador;CBF;Los Olivos;41
+Villa el Salvador;CBF;Punta Negra;98.8
+Villa el Salvador;CBF;San Borja;38
+Villa el Salvador;CBF;San Borja;39
+Villa el Salvador;CBF;SJL;40
+Villa el Salvador;CBF;Villa el Salvador;7
+Villa el Salvador;CBF;Villa el Salvador;8
+Villa el Salvador;DIDI;Ancon;83
+Villa el Salvador;DIDI;Ancon;83.6
+Villa el Salvador;DIDI;Chorrillos;26
+Villa el Salvador;DIDI;Lurin;70
+Villa el Salvador;DIDI;Lurin;78.9
+Villa el Salvador;DIDI;Miraflores;30
+Villa el Salvador;DIDI;Miraflores;32
+Villa el Salvador;DIDI;Pueblo Libre;34
+Villa el Salvador;DIDI;Pueblo Libre;35
+Villa el Salvador;DIDI;Puente Piedra;60
+Villa el Salvador;DIDI;San Miguel;38
+Villa el Salvador;DIDI;SJL;43
+Villa el Salvador;DIDI;Villa Maria del Triunfo;14
+Villa el Salvador;ETX;Ancon;80
+Villa el Salvador;ETX;Carabayllo;43.2
+Villa el Salvador;ETX;Jesus Maria;42
+Villa el Salvador;ETX;Lima;30
+Villa el Salvador;ETX;Lurin;76
+Villa el Salvador;ETX;Pueblo Libre;34.8
+Villa el Salvador;ETX;Puente Piedra;61.5
+Villa el Salvador;ETX;Santa Anita;24
+Villa el Salvador;ETX;Santa Anita;25.9
+Villa el Salvador;ETX;Santiago de Surco;25.8
+Villa el Salvador;ETX;Santiago de Surco;26
+Villa el Salvador;INDR;Barranco;20.6
+Villa el Salvador;INDR;Jesus Maria;41
+Villa el Salvador;INDR;La Victoria;43
+Villa el Salvador;INDR;La Victoria;42.8
+Villa el Salvador;INDR;La Victoria;42
+Villa el Salvador;INDR;La Victoria;42.8
+Villa el Salvador;INDR;Lince;40
+Villa el Salvador;INDR;Lince;41.5
+Villa el Salvador;INDR;Los Olivos;40.5
+Villa el Salvador;INDR;Punta Negra;95
+Villa el Salvador;INDR;Punta Negra;98
+Villa el Salvador;INDR;San Miguel;38.5
+Villa el Salvador;INDR;Villa el Salvador;5.8
+Villa el Salvador;TXB;Barranco;21
+Villa el Salvador;TXB;Chorrillos;24.5
+Villa el Salvador;TXB;Comas;83
+Villa el Salvador;TXB;El Agustino;37
+Villa el Salvador;TXB;Jesus Maria;41.8
+Villa el Salvador;TXB;La Victoria;43.8
+Villa el Salvador;TXB;Lurin;79
+Villa el Salvador;TXB;Lurin;79.2
+Villa el Salvador;TXB;Puente Piedra;62
+Villa el Salvador;TXB;Punta Negra;95.8
+Villa el Salvador;TXB;Rimac;40
+Villa el Salvador;TXB;Santa Anita;25.8
+Villa el Salvador;TXB;Santiago de Surco;24
+Villa el Salvador;TXB;Villa el Salvador;8.4
+Villa el Salvador;TXB;Villa Maria del Triunfo;17
+Villa el Salvador;TXB;Villa Maria del Triunfo;18.5
+Villa el Salvador;UBER;Chorrillos;24
+Villa el Salvador;UBER;Chorrillos;30
+Villa el Salvador;UBER;Comas;83.4
+Villa el Salvador;UBER;Comas;82
+Villa el Salvador;UBER;Jesus Maria;42.8
+Villa el Salvador;UBER;Rimac;42
+Villa el Salvador;UBER;San Marin de Porres;53
+Villa el Salvador;UBER;Villa el Salvador;8.2
+Villa el Salvador;UBER;Villa Maria del Triunfo;18
+Villa Maria del Triunfo;CBF;Chorrillos;27
+Villa Maria del Triunfo;CBF;Jesus Maria;31
+Villa Maria del Triunfo;CBF;Jesus Maria;32
+Villa Maria del Triunfo;CBF;Los Olivos;28
+Villa Maria del Triunfo;CBF;Rimac;40
+Villa Maria del Triunfo;CBF;SJL;31
+Villa Maria del Triunfo;CBF;SJL;36
+Villa Maria del Triunfo;CBF;Villa Maria del Triunfo;9.5
+Villa Maria del Triunfo;DIDI;Barranco;22
+Villa Maria del Triunfo;DIDI;Carabayllo;80
+Villa Maria del Triunfo;DIDI;Lima;29
+Villa Maria del Triunfo;DIDI;Lince;24
+Villa Maria del Triunfo;DIDI;Puente Piedra;50
+Villa Maria del Triunfo;DIDI;Puente Piedra;52
+Villa Maria del Triunfo;DIDI;San Borja;25.4
+Villa Maria del Triunfo;DIDI;Santiago de Surco;24
+Villa Maria del Triunfo;DIDI;Villa el Salvador;14
+Villa Maria del Triunfo;DIDI;Villa el Salvador;18
+Villa Maria del Triunfo;DIDI;Villa Maria del Triunfo;10
+Villa Maria del Triunfo;ETX;Barranco;20
+Villa Maria del Triunfo;ETX;Lince;25
+Villa Maria del Triunfo;ETX;Los Olivos;30
+Villa Maria del Triunfo;ETX;Miraflores;30
+Villa Maria del Triunfo;ETX;Miraflores;32
+Villa Maria del Triunfo;ETX;Punta Negra;80
+Villa Maria del Triunfo;ETX;Punta Negra;87
+Villa Maria del Triunfo;ETX;San Marin de Porres;46
+Villa Maria del Triunfo;ETX;San Marin de Porres;48
+Villa Maria del Triunfo;ETX;Santa Anita;32
+Villa Maria del Triunfo;ETX;Santiago de Surco;26
+Villa Maria del Triunfo;ETX;SJL;35
+Villa Maria del Triunfo;ETX;Villa Maria del Triunfo;8
+Villa Maria del Triunfo;INDR;Comas;60
+Villa Maria del Triunfo;INDR;Jesus Maria;32.4
+Villa Maria del Triunfo;INDR;Lima;27
+Villa Maria del Triunfo;INDR;Lima;28.5
+Villa Maria del Triunfo;INDR;Lima;30
+Villa Maria del Triunfo;INDR;Lurin;96
+Villa Maria del Triunfo;INDR;Rimac;28
+Villa Maria del Triunfo;INDR;Villa el Salvador;13
+Villa Maria del Triunfo;INDR;Villa el Salvador;12.5
+Villa Maria del Triunfo;TXB;Comas;61
+Villa Maria del Triunfo;TXB;La Victoria;23.5
+Villa Maria del Triunfo;TXB;Lima;29.4
+Villa Maria del Triunfo;TXB;Los Olivos;30
+Villa Maria del Triunfo;TXB;Lurin;94
+Villa Maria del Triunfo;TXB;San Borja;24
+Villa Maria del Triunfo;TXB;San Marin de Porres;47.5
+Villa Maria del Triunfo;TXB;Santa Anita;32.4
+Villa Maria del Triunfo;TXB;Santiago de Surco;25.5
+Villa Maria del Triunfo;UBER;Barranco;21
+Villa Maria del Triunfo;UBER;Comas;58
+Villa Maria del Triunfo;UBER;La Victoria;24
+Villa Maria del Triunfo;UBER;La Victoria;25
+Villa Maria del Triunfo;UBER;Los Olivos;29
+Villa Maria del Triunfo;UBER;Pueblo Libre;31
+Villa Maria del Triunfo;UBER;San Marin de Porres;47.6
+Villa Maria del Triunfo;UBER;San Miguel;30
+Villa Maria del Triunfo;UBER;Villa el Salvador;15
